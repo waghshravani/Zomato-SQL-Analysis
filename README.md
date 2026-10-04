@@ -2,7 +2,6 @@
 
 Analysis of a Zomato-style restaurant database using **MySQL** to answer real business questions about sales, restaurants, cuisines and customers, with the results visualised in a **Power BI** dashboard.
 
-**Team Select Star ⭐** — Sayli Dabke · Pratiksha Jadhav · Shravani Wagh · Revan Gunjal
 
 ---
 
